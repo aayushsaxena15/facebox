@@ -1,4 +1,5 @@
 # Facebox
+not mine originally
 
 Facebox is a jQuery-based, Facebook-style lightbox which can display images, divs, or entire remote pages.
 
